@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **PocketSend**
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **Springboot** Java is my favorite!
 
 - 📫 How to reach me **qqzh1214@gmail.com**
 
