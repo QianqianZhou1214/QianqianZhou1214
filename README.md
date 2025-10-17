@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Internship**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Go && Rust**
 
 - 📫 How to reach me **qqzh1214@gmail.com**
 
