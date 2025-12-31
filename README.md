@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qianqian</h1>
-<h3 align="center">An inspiring Backend Software Engineer Student👩🏻‍💻 studying AAI in Germany. A smart and quick learner.</h3>
+<h3 align="center">An inspiring Software Engineer Student👩🏻‍💻 studying AAI in Germany. A smart and quick learner.</h3>
 
 - 🔭 I’m currently working on **My Internship**
-
-- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **qqzh1214@gmail.com**
 
